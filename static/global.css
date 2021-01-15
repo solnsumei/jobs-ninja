@@ -36,3 +36,20 @@ code {
 		font-size: 16px;
 	}
 }
+
+.margin-top {
+	margin-top: 20px !important;
+}
+
+.btn {
+	display: inline-block;
+	background: #ff3e00;
+	color: white;
+	padding: 10px 15px;
+	text-decoration: none;
+	border-radius: 8px;
+	text-transform: uppercase;
+	font-size: 11px;
+	font-weight: 600;
+	border: 0;
+}
